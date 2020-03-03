@@ -1,0 +1,73 @@
+
+
+
+
+#welcome {
+    width: 46px;
+    height: 44px;
+    background: url(img_navsprites.gif) 0 0;
+h1 {
+    text-shadow: 2px .5px;
+    display: inline;
+  }
+
+  li {
+    display: inline;
+  }
+
+  h1 {
+    display: inline;
+  }
+
+#welcome{
+    /*text-align: center;*/
+    height: 200px;
+    background-color: black;
+    color: white;
+    }
+     /* .linksOfDestinations{
+        height:200px;
+        background-color: aqua;
+        color: black;
+        }
+        */
+        
+    p{
+        /*text-align: center;*/
+      height:100px; 
+      color: goldenrod;
+    }
+
+    a:hover{
+        
+        color: darkred;
+        text-decoration: none;
+
+    }
+    a:visited{
+        color: blue;
+        text-decoration: none;
+    }
+    /*p{
+        width: 300px;
+        border: 15px solid green;
+        padding: 1px;
+        margin: 1px;
+    }
+        */
+    .center {
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+      }
+      /*body {
+        margin: 2;}
+        img {
+            float: middle;
+          }
+            */
+
+            table, th, td {
+                border: 1px solid darkred;
+              }
