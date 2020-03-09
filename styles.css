@@ -1,0 +1,51 @@
+body{
+  background-color: rgb(143, 136, 136);
+  
+}
+#welcome{
+  background-color: whitesmoke;
+  color: rgb(75, 73, 73);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+  font-size: xx-large;
+  text-align: center;
+  padding: 25px;
+}
+
+#ghanaLink ul{
+  list-style-type: none;
+ 
+  font-size: 125%;
+  padding: 50px;
+}
+
+#kemetLink ul{
+  list-style-type: none;
+ 
+  font-size: 125%;
+  padding: 50px;
+}
+#sierreLeoneLink ul{
+  list-style-type: none;
+ 
+  font-size: 125%;
+  padding: 50px;
+}
+
+#bahamasLink ul{
+  list-style-type: none;
+ 
+  font-size: 125%;
+  padding: 50px;
+}
+
+#jamaicaLink ul{
+  list-style-type: none;
+ 
+  font-size: 125%;
+  padding: 50px;
+}
+
+
+#footer{
+  clear: both;
+}
